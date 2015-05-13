@@ -1,7 +1,7 @@
 # data-map-multikey
-Data.Map with lookups by multiple, unique keys.
-Heavily inspired by `IxSet`.
+Data.Map, but indexed by multiple, *unique* keys. 
 
+This small project came out of exploring the code for `IxSet`. It's essentially `IxSet` without the `Set`s, and hence without the ability to support duplicate keys. On the upside, it's [small](https://github.com/jhickner/data-map-multikey/blob/master/Data/Map/MultiKey.hs) and easy to understand.
 
 ## Example
 
