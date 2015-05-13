@@ -4,7 +4,7 @@
 name:                data-map-multikey
 version:             0.0.1.1
 synopsis:            Data.Map with multiple, unique keys
--- description:         
+description:         Data.Map with multiple, unique keys. IxSet without the Sets.
 homepage:            http://github.com/jhickner/data-map-multikey
 license:             MIT
 license-file:        LICENSE
