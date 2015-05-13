@@ -2,7 +2,7 @@
 -- documentation, see http://haskell.org/cabal/users-guide/
 
 name:                data-map-multikey
-version:             0.0.1
+version:             0.0.1.1
 synopsis:            Data.Map with multiple, unique keys
 -- description:         
 homepage:            http://github.com/jhickner/data-map-multikey
