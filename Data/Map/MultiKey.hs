@@ -5,8 +5,6 @@
 Data.Map with multiple, unique keys.
 IxSet without the Sets.
 
-    > {-# LANGUAGE DeriveDataTypeable #-}
-    >
     > module Main where
     > 
     > import Data.Map.MultiKey
